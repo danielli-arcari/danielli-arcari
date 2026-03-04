@@ -1,16 +1,31 @@
-## Hi there 👋
+# Danielli Arçari
 
-<!--
-**danielli-arcari/danielli-arcari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação focada em Análise de Dados.
 
-Here are some ideas to get you started:
+Atualmente desenvolvendo projetos com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Python  
+• SQL  
+• Pandas  
+• Visualização de dados  
+• Power BI (básico)
+
+Interesse em atuar com:
+
+• Business Intelligence  
+• Análise de comportamento de clientes  
+• Métricas de negócio  
+• Análise de dados aplicada a marketing e e-commerce
+
+## Projetos
+
+Análise de Churn de Clientes  
+Exploração de dados para identificar fatores associados ao cancelamento de clientes.
+
+Análise de Vendas de E-commerce  
+Projeto de análise exploratória de dados para avaliação de desempenho de lojas.
+
+## Links
+
+Portfólio: https://danielliarcari.vercel.app  
+GitHub: https://github.com/danielli-arcari
