@@ -1,8 +1,6 @@
-# Danielli Arçari
+# Danielli Meilene Coutinho Arçari
 
-Estudante de Ciência da Computação focada em Análise de Dados.
-
-Atualmente desenvolvendo projetos com:
+Graduanda em Ciência da Computação, focada em Análise de Dados. Atualmente desenvolvendo projetos com:
 
 • Python  
 • SQL  
@@ -19,13 +17,10 @@ Interesse em atuar com:
 
 ## Projetos
 
-Análise de Churn de Clientes  
-Exploração de dados para identificar fatores associados ao cancelamento de clientes.
-
-Análise de Vendas de E-commerce  
-Projeto de análise exploratória de dados para avaliação de desempenho de lojas.
+• Minha relação de melhores projetos está em: https://danielliarcari.vercel.app/
 
 ## Links
 
 Portfólio: https://danielliarcari.vercel.app  
 GitHub: https://github.com/danielli-arcari
+Linkedin: https://www.linkedin.com/in/danielli-arcari/
