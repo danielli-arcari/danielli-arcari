@@ -1,11 +1,11 @@
 # Danielli Meilene Coutinho Arçari
 
-Graduanda em Ciência da Computação, focada em Análise de Dados. Atualmente desenvolvendo projetos com:
+Graduanda em Ciência da Computação, focada em Análise de Dados. Atualmente desenvolvendo projetos em:
 
 • Python  
 • SQL  
 • Pandas  
-• Visualização de dados  
+• Visualização de dados com Pandas, Plotly, Seaborn, Matplotlib 
 • Power BI (básico)
 
 Interesse em atuar com:
