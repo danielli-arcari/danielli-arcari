@@ -4,9 +4,8 @@ Graduanda em Ciência da Computação, focada em Análise de Dados. Atualmente d
 
 • Python  
 • SQL  
-• Pandas  
 • Visualização de dados com Pandas, Plotly, Seaborn, Matplotlib 
-• Power BI (básico)
+• Power BI 
 
 Interesse em atuar com:
 
@@ -21,6 +20,8 @@ Interesse em atuar com:
 
 ## Links
 
-Portfólio: https://danielliarcari.vercel.app  
+Portfólio: https://danielliarcari.vercel.app 
+
 GitHub: https://github.com/danielli-arcari
-Linkedin: https://www.linkedin.com/in/danielli-arcari/
+
+Linkedin: https://www.linkedin.com/in/danielli-arcari
