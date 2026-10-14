@@ -61,7 +61,6 @@ Conheça os projetos no [meu portfólio](https://danielliarcari.vercel.app/) e c
 
 ### Formações e mentorias em andamento
 
-- **Google Data Analytics Professional Certificate** | Google / Coursera. Formação em análise de dados, com estudos de preparação, limpeza, análise e visualização, além de projeto final.
 - **Leega Academy, em parceria com a MCIO** | Formação em Dados, Analytics e Inteligência Artificial, com estudos de preparação de dados, ETL com Pentaho, modelagem dimensional, Engenharia e Arquitetura de Dados e Power BI.
 - **Mentoria em Dados com Luiz Santana** | Desenvolvimento técnico e direcionamento de carreira na área de Dados.
 
