@@ -1,17 +1,21 @@
-# Olá! Sou Danielli Arçari 👩🏻‍💻📊
+# Olá, sou Danielli Arçari! 
 
-**Analista de Dados Jr. & Analytics Engineering | Transformando dados em decisões**
+**Analista de Dados & Analytics Engineering em formação | Transformando dados em decisões**
 
-Sou estudante de Ciência da Computação e atuo na fronteira entre a engenharia e a análise de dados. Após 17 anos de experiência em consultoria jurídica autônoma — investigando fatos, estruturando grandes volumes de informação e otimizando indicadores operacionais —, hoje aplico esse mesmo rigor analítico construindo pipelines, modelando bancos de dados e criando dashboards que sustentam tomadas de decisão reais. 
+📑  Sou estudante de Ciência da Computação e atuo na fronteira entre a engenharia e a análise de dados. Após 17 anos de experiência em consultoria jurídica, investigando fatos e estruturando grandes volumes de informação, hoje aplico esse mesmo rigor analítico construindo pipelines, modelando bancos de dados e criando dashboards que sustentam tomadas de decisão reais. 
 
-Tenho o hábito de questionar os dados antes de confiar neles. 
+*Tenho o hábito de questionar os dados antes de confiar neles - um hábito que tem o seu valor!* 
 
-### 🛠️ Tech Stack & Ferramentas
+---
+
+### 🛠️ Tech Stack & Ferramentas:
 * **Linguagens:** SQL, Python (Pandas, NumPy, PySpark)
 * **Engenharia e Bancos de Dados:** Databricks, Azure (Certificada DP-900), MySQL, SQL Server, SQLite, Arquitetura Medalhão (Bronze, Silver, Gold), ETL
 * **Visualização e BI:** Power BI, Tableau, Matplotlib, Seaborn
 
-### 🚀 Projetos em Destaque
+---
+
+### 🚀 Projetos em Destaque:
 
 * 📈 **[Análise da Dívida Ativa da União (PGFN)](https://danielliarcari.vercel.app/)** 
   * **O que fiz:** Processei 45,5 milhões de linhas (R$ 2,96 trilhões) no **Databricks** utilizando **SQL** e **PySpark**. 
@@ -34,7 +38,7 @@ Tenho o hábito de questionar os dados antes de confiar neles.
 * **Oracle Next Education (ONE G9)** — Especialização em Dados
 
 ### 📬 Vamos conversar?
-Estou sempre aberta a um bom papo sobre dados e oportunidades de estágio/júnior em Analytics.
+Bora num bom papo sobre dados e oportunidades de estágio/júnior em Analytics? Entre em contato!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielli-arcari)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danielliarcari.vercel.app)
