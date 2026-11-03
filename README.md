@@ -27,8 +27,12 @@
   * **O que fiz:** Limpeza de dados (EDA) e enriquecimento via API (Wikidata) de 10 mil filmes utilizando **Python**.
   * **Impacto:** Resposta a 9 perguntas de negócios para produtores cinematográficos, aplicando regras estritas de confiabilidade financeira.
 
+---
+
 ### ✍️ Publicações Técnicas
 * **[Série de Estudos: Microsoft Azure Data Fundamentals (DP-900)](https://medium.com/@axiadmc)** — Autora de uma série técnica em 4 partes no Medium detalhando os fundamentos de dados na nuvem Azure e servindo como guia de estudos para a certificação.
+
+---
 
 ### 🎓 Certificações e Formação
 * **Bacharelado em Ciência da Computação** — UNINTER (Previsão: 2029)
@@ -36,6 +40,8 @@
 * **Google Data Analytics Professional Certificate**
 * **Bootcamp Engenharia e Análise de Dados** — Leega & MCIO Brasil
 * **Oracle Next Education (ONE G9)** — Especialização em Dados
+
+---
 
 ### 📬 Vamos conversar?
 Bora num bom papo sobre dados e oportunidades de estágio/júnior em Analytics? Entre em contato!
